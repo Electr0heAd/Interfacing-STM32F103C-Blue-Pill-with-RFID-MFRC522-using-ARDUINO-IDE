@@ -1,0 +1,11 @@
+
+RFID to STM32 Connection table
+
+Sr No   RFID RC522 Pins	 STM32 Pins
+1	   VCC		  +3.3V
+2	   RST		  7 (NRST)
+3	   GND		  GND
+4	   MISO		  PA6
+5	   MOSI		  PA7
+6	   SCK		  PA5
+7	   SS/SDA	  PA4
